@@ -70,4 +70,4 @@ Dataset contains 45211 examples and 17 inputs, ordered by date from May 2008 to 
     
     #### ROC Curves
     
-    <img scr="Images/ROC-without_poutcome.jpg" width=500>
+    <img src="Images/ROC-without_poutcome.jpg" width=500>
