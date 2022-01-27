@@ -52,7 +52,7 @@ Dataset contains 45211 examples and 17 inputs, ordered by date from May 2008 to 
     - Random Forest Classifier: 96.7%
     - Voting Classifier: 96.7%
     #### ROC curves
-    ![ROC with poutcome](Images/ROC-with_poutcome.jpg)
+    <img src="Images/ROC-with_poutcome.jpg" width=200>
 - ### Without 'poutcome'
     A real world senario will generally exclude 'poutcome' attribute to get models to predict accurately even though we don't have the most impactfull atrribute.
 
@@ -63,6 +63,6 @@ Dataset contains 45211 examples and 17 inputs, ordered by date from May 2008 to 
     - Random Forest Classifier: 80.7%
     - Voting Classifier: 80.2%
     - AdaBoost Classifier: 80.7%/  
-    ![Model Scores](Images/ModelScores-without_poutcome.png)
+    <img src="(Images/ModelScores-without_poutcome.png" width=200>
     #### ROC Curves
-    ![ROC without poutcome](Images/ROC-without_outcome.jpg)
+    <img scr="Images/ROC-without_outcome.jpg" width=200>
