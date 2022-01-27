@@ -62,7 +62,7 @@ Dataset contains 45211 examples and 17 inputs, ordered by date from May 2008 to 
     - Bagging Classifier: 79.0%
     - Random Forest Classifier: 80.7%
     - Voting Classifier: 80.2%
-    - AdaBoost Classifier: 80.7%
+    - AdaBoost Classifier: 80.7%/  
     [!Model Scores](https://github.com/KaustubhKasture/Bank-Marketing-Prediction/blob/main/Images/Model%20Scores(without%20poutcome).png)
     #### ROC Curves
     [!ROC without poutcome](https://github.com/KaustubhKasture/Bank-Marketing-Prediction/blob/main/Images/ROC(without%20outcome).jpg)
