@@ -52,7 +52,7 @@ Dataset contains 45211 examples and 17 inputs, ordered by date from May 2008 to 
     - Random Forest Classifier: 96.7%
     - Voting Classifier: 96.7%
     #### ROC curves
-    [!ROC with poutcome](https://github.com/KaustubhKasture/Bank-Marketing-Prediction/blob/main/Images/ROC%20(with%20poutcome).jpg)
+    [!ROC with poutcome](https://github.com/KaustubhKasture/Bank-Marketing-Prediction/blob/main/Images/ROC(with poutcome).jpg)
 - ### Without 'poutcome'
     A real world senario will generally exclude 'poutcome' attribute to get models to predict accurately even though we don't have the most impactfull atrribute.
 
